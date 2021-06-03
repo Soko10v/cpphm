@@ -76,5 +76,5 @@ int main() {
 	}
 	std::cout << b;
 
-return 0;
+	return 0;
 }
